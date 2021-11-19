@@ -191,10 +191,10 @@ function Enter () {
  
   
  
-  checkbox = createCheckbox('autopilot', false);
-  checkbox.position(10, 60)
-  checkbox.style('color: white')
-  checkbox.changed(togglePilot);
+//   checkbox = createCheckbox('autopilot', false);
+//   checkbox.position(10, 60)
+//   checkbox.style('color: white')
+//   checkbox.changed(togglePilot);
   
     birdview = createCheckbox('birdview', false);
   birdview.position(10, 35)
