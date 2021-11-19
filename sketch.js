@@ -175,13 +175,13 @@ function Enter () {
   // text('treecount', 100, 10)
   
   // frameRate(24);
-   sel = createSelect();
-  sel.position(15, 90);
-  sel.option('pentatonic');
-  sel.option('minor');
-  sel.option('major');
-  sel.selected('pentatonic');
-  sel.changed(changeNotes);
+//    sel = createSelect();
+//   sel.position(15, 90);
+//   sel.option('pentatonic');
+//   sel.option('minor');
+//   sel.option('major');
+//   sel.selected('pentatonic');
+//   sel.changed(changeNotes);
   
  
   
